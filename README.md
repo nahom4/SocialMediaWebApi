@@ -18,9 +18,11 @@ This is a simple RESTful API for a social media platform implemented using ASP.N
    ```bash
    git clone https://github.com/your-username/social-media-api.git
 2. cd social-media-api
-3. dotnet restore
-4. dotnet build
-5. dotnet run
+    ```bash
+      cd social-media-api
+4. dotnet restore
+5. dotnet build
+6. dotnet run
 
 
 
